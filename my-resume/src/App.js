@@ -11,7 +11,7 @@ function App() {
       <section id="summary">
         <h2>Summary</h2>
         <p>
-        Highly motivated and experienced software engineer with a strong background in Python development, Docker containerization, and continuous integration/continuous delivery (CI/CD) processes. Proficient in using Git for version control, Jenkins for CI/CD pipeline creation, and Ansible for infrastructure automation. Adequate knowledge in PowerShell and Shell scripting. A problem-solver with a passion for technology and a commitment to delivering high-quality and scalable software solutions. Seeking a challenging role in a dynamic organization where I can utilize my technical skills and experience to drive innovation and growth.
+        Highly motivated and experienced software engineer with a strong background in Python development, Docker containerization, and continuous integration/continuous delivery (CI/CD) processes. Proficient in using Git for version control, Jenkins for CI/CD pipeline creation, and Ansible for infrastructure automation. Adequate knowledge in PowerShell and Shell scripting. A problem-solver with a passion for technology and a commitment to delivering high-quality and scalable software solutions. Seeking a challenging role in a dynamic organization where I can utilize my technical skills and experience to drive innovation and growth. Yeah!!!!
         </p>
       </section>
       <section id="skills">
