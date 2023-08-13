@@ -11,7 +11,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://cchinnam0306.github.io/my-resume",
+  "homepage": "https://cchinnam0306.github.io/my-resume/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
